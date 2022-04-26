@@ -25,6 +25,10 @@ body {
 	font-size: 1.5em;
 }
 
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid black;
+}
+
 #nav-list a:hover {
 	background-color: grey;
 }
